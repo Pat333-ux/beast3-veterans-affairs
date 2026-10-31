@@ -1,0 +1,28 @@
+beast3-veterans-affairs/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── charter.md
+│   ├── eligibility-policy.md
+│   ├── benefits-framework.md
+│   └── privacy-security.md
+│
+├── src/
+│   ├── core/
+│   │   ├── VeteranRegistry.ts
+│   │   ├── BenefitClaimsManager.ts
+│   │   ├── SupportResourceRouter.ts
+│   │   └── HonorRecords.ts
+│   │
+│   ├── api/
+│   │   └── veterans.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
