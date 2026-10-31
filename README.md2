@@ -1,0 +1,26 @@
+# Beast 3.0 Veterans Affairs Division
+
+The Veterans Affairs Division serves as the primary coordination node for former military personnel, service members, and their dependents within the Beast 3.0 governance framework.
+
+## Mission
+
+Deliver rapid, transparent, and respectful support services, automated benefit routing, emergency assistance, and honor verification for military veterans.
+
+## Core Responsibilities
+
+- Service Verification & Credentials (DD-214 / SBT Badges)
+- Benefit Claims Processing & Tracking
+- Emergency Relief & Housing Support Allocation
+- Healthcare, Mental Health & Peer Network Routing
+- Honor Records & Service Recognition Archives
+
+## Connected Systems
+
+- Resource Eligibility Division (`beast3-resource-eligibility`)
+- Treasury & Revenue Division (`beast3-treasury-revenue`)
+- Identity & Credentials Division (`beast3-identity-credentials`)
+- Judicial & Audit Division (`beast3-judicial-audit`)
+
+## Status
+
+Development
